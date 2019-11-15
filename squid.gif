@@ -1,0 +1,12 @@
+--2019-11-15 16:34:21--  https://i.giphy.com/media/uaTdCSmC4dmkU/giphy.webp
+Resolving i.giphy.com (i.giphy.com)... 151.101.250.2
+Connecting to i.giphy.com (i.giphy.com)|151.101.250.2|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93000 (91K) [image/webp]
+Saving to: ‘giphy.webp’
+
+     0K .......... .......... .......... .......... .......... 55% 37.1M 0s
+    50K .......... .......... .......... ..........           100% 66.6M=0.002s
+
+2019-11-15 16:34:21 (46.4 MB/s) - ‘giphy.webp’ saved [93000/93000]
+
